@@ -1,0 +1,120 @@
+.brand-img:hover.brand-img figcaption,
+.cart-icon:hover,
+.newsletter,
+.slider-section .owl-prev:hover,
+.slider-section .owl-next:hover,
+.partnernav .owl-prev:hover,
+.partnernav .owl-next:hover,
+.blognav .owl-prev:hover,
+.blognav .owl-next:hover,
+.slidernav .owl-prev:hover,
+.slidernav .owl-next:hover,
+.couponnav .owl-prev:hover,
+.couponnav .owl-next:hover,
+.itg-btn.box-btn:hover span,
+.pagination-box span i:hover,
+#blog .owl-prev:hover,
+#blog .owl-next:hover,
+.tags ul li a:hover,
+.itg-btn.cart-btn,
+.searchbar button,
+.contact select,
+.navbar-default .navbar-nav .dropdown-menu>li>a:hover,
+button.itg-btn.subcribes,
+.our-categorie .owl-prev:hover,
+.our-categorie .owl-next:hover,
+.header-searchbar button,
+.section-box h3,
+.coupons-section:before,
+.slider-second:before,
+.middle sup,
+.categorie-section h5,
+#top-bar-sec,
+ul.nav.navbar-nav.vertical-menu li a:hover,
+.brand-img figcaption,
+.share-this ul li:hover {
+    background-color: #FBC40B
+}
+.shopcart-box .trending span,
+.pagination-box,
+.circle-2,
+.circle-3,
+.author {
+    border-color: #FBC40B
+}
+.categorie-box:hover figcaption h3,
+.categorie-box:hover figcaption i,
+.breadcrumb-text h3,
+.submit .itg-btn,
+span.itg-color,
+.hover a:hover,
+.pagination-box span:hover,
+.symbol i,
+.main-footer h4,
+.main-footer p a:hover,
+.share-this ul li,
+.box-detail span a:hover {
+    color: #FBC40B;
+    font-weight: bold;
+}
+.green {
+    color: #99d038;
+}
+.red {
+    color: #ff1111;
+}
+.green1 {
+    color: #4bad97;
+}
+.green2 {
+    color: #99d038;
+}
+.orangered {
+    color: #f55656;
+}
+.yellow {
+    color: #ffb911;
+}
+.green3 {
+    color: #56edbd;
+}
+.darkred {
+    color: #db7173;
+}
+.green4 {
+    color: #ceda15;
+}
+.purple {
+    color: #e869fb;
+}
+.green5 {
+    color: #62f765;
+}
+/* color yellow */
+
+ul.stars {
+    color: #ffb911;
+}
+.contact .language-icon {
+    color: #d0132c;
+}
+.deals-sidebar ul.stars {
+    color: #ffb911;
+}
+.itg-btn.box-btn span:after {
+    border-bottom: 60px solid #FBC40B;
+}
+.orange-bg {
+    background-color: #FBC40B;
+}
+.orange {
+    color: #FBC40B;
+}
+.cuponbutton{
+    background-color: #ffdb0f;
+    color:black;
+}
+.cuponbutton:hover,.cuponbutton:active,.cuponbutton:focus{
+    background-color: #d6b600;
+    color:white;
+}

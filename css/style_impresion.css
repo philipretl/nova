@@ -1,0 +1,116 @@
+@page { margin: 2px !important; }
+
+.clearfix:after {
+  content: "";
+  display: table;
+  clear: both;
+}
+
+a {
+  color: #0087C3;
+  text-decoration: none;
+}
+
+h1,h2,h3,h4,h5,h6{
+  padding:0px;
+  margin:0px;
+}
+
+body {
+  position: relative;
+  margin:1.5cm 1cm 1cm 1cm !important; 
+  color: #000;
+  background: #FFFFFF; 
+  font-size: 12px; 
+  font-family: DejaVu Sans;
+  border:solid 3px gray;
+}
+.btn {
+  background: #3498db;
+  background-image: -webkit-linear-gradient(top, #3498db, #2980b9);
+  background-image: -moz-linear-gradient(top, #3498db, #2980b9);
+  background-image: -ms-linear-gradient(top, #3498db, #2980b9);
+  background-image: -o-linear-gradient(top, #3498db, #2980b9);
+  background-image: linear-gradient(to bottom, #3498db, #2980b9);
+  -webkit-border-radius: 28;
+  -moz-border-radius: 28;
+  border-radius: 28px;
+  font-family: Arial;
+  color: #ffffff;
+  font-size: 20px;
+  padding: 10px 20px 10px 20px;
+  text-decoration: none;
+}
+
+.btn:hover {
+  background: #3cb0fd;
+  background-image: -webkit-linear-gradient(top, #3cb0fd, #3498db);
+  background-image: -moz-linear-gradient(top, #3cb0fd, #3498db);
+  background-image: -ms-linear-gradient(top, #3cb0fd, #3498db);
+  background-image: -o-linear-gradient(top, #3cb0fd, #3498db);
+  background-image: linear-gradient(to bottom, #3cb0fd, #3498db);
+  text-decoration: none;
+}
+
+img.cupon {
+  width:200px;
+}
+img.logo {
+  width:300px;
+}
+img.barcode {
+  width:200px;
+  height:80px;
+  margin-top: 10px;
+  margin-bottom: 20px;
+  background-color: transparent;
+}
+
+table {
+  width: 100%;
+  border-collapse: collapse;
+  border-spacing: 0;
+  margin-bottom: 5px;
+}
+
+table.tabla thead tr{
+  text-align: center;
+  border-bottom: 1px solid #FFFFFF;
+  border-right: 1px solid #FFFFFF;
+  padding:5px;
+}
+
+
+table.tabla td {
+  border: 1px solid #dedede !important;
+  padding:2px;
+}
+
+table th,
+table td {
+  text-align: center;
+}
+
+table th {        
+  font-weight: normal;
+}
+
+main{
+  margin-top:5px;
+}
+
+.bold{
+  font-weight: bold;
+}
+
+p{
+  line-height: 10px;
+  margin:0px;
+}
+
+.text-yellow{
+  color:#2d7dff;
+}
+
+header { position: fixed; top: 15px; left: 20px; right: 5px; height: 50px;}
+footer { position: fixed; bottom: -5px; left: 5px; right: 5px; height: 50px; }
